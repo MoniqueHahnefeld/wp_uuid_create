@@ -11,6 +11,7 @@
  * on these fields only.
  *
  * @author johannespichler
+ * @author Monique Hahnefeld
  */
 
 namespace UUIDCreator;
